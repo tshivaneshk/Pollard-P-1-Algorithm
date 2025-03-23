@@ -1,0 +1,1 @@
+The Pollard P-1 algorithm is a powerful tool in the realm of prime factorization. While it has its limitations, ongoing research continues to improve its efficiency and applicability. Understanding this algorithm opens doors to advanced techniques in cryptography and number theory.
